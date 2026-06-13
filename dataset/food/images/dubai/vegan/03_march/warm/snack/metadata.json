@@ -1,0 +1,79 @@
+{
+  "folder_context": {
+    "location": "Dubai",
+    "meal_preference": "vegan",
+    "month": "03 March",
+    "month_number": 3,
+    "season": "Warm",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 28
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Vegan Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Warm Snack — suitable for snack in Dubai during warm (03 March)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Vegan Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Warm Snack — suitable for snack in Dubai during warm (03 March)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Vegan Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Warm Snack — suitable for snack in Dubai during warm (03 March)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Vegan Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Warm Snack — suitable for snack in Dubai during warm (03 March)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Vegan Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Warm Snack — suitable for snack in Dubai during warm (03 March)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Vegan Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Warm Snack — suitable for snack in Dubai during warm (03 March)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Unisex",
+    "month": "02 February",
+    "month_number": 2,
+    "season": "Winter",
+    "time_of_day": "Morning",
+    "avg_temperature_celsius": 6,
+    "weather_note": "Cold Paris winter, heavy coat and layers required, possible rain or frost"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Gender Neutral Winter Raincoat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Unisex Wool Scarf & Gloves",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Gender Neutral Winter Raincoat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Unisex Winter Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Unisex Wool Scarf & Gloves",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Gender Neutral Winter Raincoat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Unisex Winter Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Gender Neutral Winter Raincoat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_009.jpg",
+      "item_name": "Unisex Winter Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_010.jpg",
+      "item_name": "Unisex Wool Scarf & Gloves",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_011.jpg",
+      "item_name": "Unisex Winter Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 02 February (winter) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

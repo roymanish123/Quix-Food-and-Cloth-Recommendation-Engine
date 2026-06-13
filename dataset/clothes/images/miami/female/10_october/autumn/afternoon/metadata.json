@@ -1,0 +1,34 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "gender": "Female",
+    "month": "10 October",
+    "month_number": 10,
+    "season": "Autumn",
+    "time_of_day": "Afternoon",
+    "avg_temperature_celsius": 27,
+    "weather_note": "Warm Miami autumn, light layers for occasional cool spells"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Casual Autumn Afternoon",
+      "category": "Dress",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 10 October (autumn) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Autumn Beach Fashion",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 10 October (autumn) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    }
+  ]
+}

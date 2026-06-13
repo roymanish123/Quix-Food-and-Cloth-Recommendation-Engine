@@ -1,0 +1,104 @@
+{
+  "folder_context": {
+    "location": "Dubai",
+    "gender": "Female",
+    "month": "12 December",
+    "month_number": 12,
+    "season": "Mild",
+    "time_of_day": "Afternoon",
+    "avg_temperature_celsius": 26,
+    "weather_note": "Pleasant Dubai weather, light layers comfortable, cooler in early morning and evening"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Afternoon Abaya",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Daily",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Modest Afternoon Outfit",
+      "category": "Modest Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Smart Casual",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Afternoon Abaya",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Daily",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Modest Afternoon Outfit",
+      "category": "Modest Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Smart Casual",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Afternoon Abaya",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Daily",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Modest Afternoon Outfit",
+      "category": "Modest Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Smart Casual",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Afternoon Abaya",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Daily",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Modest Afternoon Outfit",
+      "category": "Modest Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Smart Casual",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_009.jpg",
+      "item_name": "Afternoon Abaya",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Daily",
+      "description": "Outfit suitable for Dubai in 12 December (mild) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    }
+  ]
+}

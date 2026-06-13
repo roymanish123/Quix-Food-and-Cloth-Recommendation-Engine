@@ -1,0 +1,90 @@
+{
+  "folder_context": {
+    "location": "Dubai",
+    "meal_preference": "egg",
+    "month": "11 November",
+    "month_number": 11,
+    "season": "Mild",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 30
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Boiled Egg Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Boiled Egg Snack — suitable for snack in Dubai during mild (11 November)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Boiled Egg Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Boiled Egg Snack — suitable for snack in Dubai during mild (11 November)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Boiled Egg Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Boiled Egg Snack — suitable for snack in Dubai during mild (11 November)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Boiled Egg Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Boiled Egg Snack — suitable for snack in Dubai during mild (11 November)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Boiled Egg Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Boiled Egg Snack — suitable for snack in Dubai during mild (11 November)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Boiled Egg Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Boiled Egg Snack — suitable for snack in Dubai during mild (11 November)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Boiled Egg Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Boiled Egg Snack — suitable for snack in Dubai during mild (11 November)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    }
+  ]
+}

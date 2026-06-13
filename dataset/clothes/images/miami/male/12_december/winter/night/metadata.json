@@ -1,0 +1,24 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "gender": "Male",
+    "month": "12 December",
+    "month_number": 12,
+    "season": "Winter",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 21,
+    "weather_note": "Mild Miami winter, light clothing sufficient, comfortable evenings"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Smart Winter Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Miami in 12 December (winter) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    }
+  ]
+}

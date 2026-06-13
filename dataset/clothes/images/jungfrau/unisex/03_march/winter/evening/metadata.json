@@ -1,0 +1,34 @@
+{
+  "folder_context": {
+    "location": "Jungfrau",
+    "gender": "Unisex",
+    "month": "03 March",
+    "month_number": 3,
+    "season": "Winter",
+    "time_of_day": "Evening",
+    "avg_temperature_celsius": -6,
+    "weather_note": "Extreme Jungfrau cold, heavy ski/thermal wear mandatory, snowfall likely"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Unisex Alpine Evening Outfit",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 03 March (winter) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Unisex Alpine Scarf & Gloves",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 03 March (winter) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    }
+  ]
+}

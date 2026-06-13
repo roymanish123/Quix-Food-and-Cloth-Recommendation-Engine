@@ -1,0 +1,57 @@
+{
+  "folder_context": {
+    "location": "Dubai",
+    "meal_preference": "vegan",
+    "month": "12 December",
+    "month_number": 12,
+    "season": "Mild",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 26
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Vegan Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Snack — suitable for snack in Dubai during mild (12 December)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Vegan Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Snack — suitable for snack in Dubai during mild (12 December)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Vegan Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Snack — suitable for snack in Dubai during mild (12 December)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Vegan Snack",
+      "food_category": "Snack",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Vegan Snack — suitable for snack in Dubai during mild (12 December)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    }
+  ]
+}

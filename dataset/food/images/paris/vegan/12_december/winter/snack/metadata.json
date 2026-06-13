@@ -1,0 +1,178 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "meal_preference": "vegan",
+    "month": "12 December",
+    "month_number": 12,
+    "season": "Winter",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 6
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_009.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_010.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_011.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_012.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_013.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_014.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_015.jpg",
+      "dish_name": "Paris vegan snack dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "snack",
+      "description": "Top-up food image for paris/vegan/winter/snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    }
+  ]
+}

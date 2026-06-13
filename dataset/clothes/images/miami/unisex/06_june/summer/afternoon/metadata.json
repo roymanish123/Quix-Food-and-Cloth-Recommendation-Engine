@@ -1,0 +1,94 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "gender": "Unisex",
+    "month": "06 June",
+    "month_number": 6,
+    "season": "Summer",
+    "time_of_day": "Afternoon",
+    "avg_temperature_celsius": 29,
+    "weather_note": "Hot humid Miami summer, very light clothing, beach-ready outfits"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Unisex Summer Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Gender Neutral Beach Set",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Unisex Miami Summer Beach",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Unisex Summer Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Gender Neutral Beach Set",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Unisex Miami Summer Beach",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Unisex Summer Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Gender Neutral Beach Set",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 06 June (summer) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    }
+  ]
+}

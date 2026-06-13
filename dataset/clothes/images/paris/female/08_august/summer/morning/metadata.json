@@ -1,0 +1,94 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Female",
+    "month": "08 August",
+    "month_number": 8,
+    "season": "Summer",
+    "time_of_day": "Morning",
+    "avg_temperature_celsius": 23,
+    "weather_note": "Warm Paris summer, light clothing suitable, evenings may be cool"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Summer Morning Dress",
+      "category": "Dress",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Light Summer Morning",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Summer Morning Dress",
+      "category": "Dress",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Light Summer Morning",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Summer Morning Dress",
+      "category": "Dress",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Light Summer Morning",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Summer Morning Dress",
+      "category": "Dress",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Light Summer Morning",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 08 August (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

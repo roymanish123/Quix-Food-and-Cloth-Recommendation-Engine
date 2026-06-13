@@ -1,0 +1,104 @@
+{
+  "folder_context": {
+    "location": "Dubai",
+    "gender": "Male",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Hot",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 40,
+    "weather_note": "Intense Dubai heat, loose lightweight fabrics essential, stay hydrated"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Summer Night Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Traditional Summer Night",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Formal",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Summer Night Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Traditional Summer Night",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Formal",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Summer Night Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Summer Night Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Traditional Summer Night",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Formal",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Summer Night Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    },
+    {
+      "filename": "img_009.jpg",
+      "item_name": "Traditional Summer Night",
+      "category": "Traditional Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Cultural/Formal",
+      "description": "Outfit suitable for Dubai in 09 September (hot) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Dubai"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "meal_preference": "vegan",
+    "month": "03 March",
+    "month_number": 3,
+    "season": "Spring",
+    "time_of_day": "Lunch",
+    "avg_temperature_celsius": 23
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_009.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_010.jpg",
+      "dish_name": "Vegan Spring Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Vegan Spring Lunch — Miami spring lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    }
+  ]
+}

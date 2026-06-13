@@ -1,0 +1,64 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "gender": "Male",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Autumn",
+    "time_of_day": "Evening",
+    "avg_temperature_celsius": 29,
+    "weather_note": "Warm Miami autumn, light layers for occasional cool spells"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Smart Autumn Evening",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Miami in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Smart Autumn Evening",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Miami in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Casual Autumn Evening",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Miami in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Smart Autumn Evening",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Miami in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Casual Autumn Evening",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Miami in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    }
+  ]
+}

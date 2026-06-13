@@ -1,0 +1,34 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Female",
+    "month": "11 November",
+    "month_number": 11,
+    "season": "Autumn",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 9,
+    "weather_note": "Cool Paris autumn, layering recommended, frequent rain expected"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Elegant Autumn Night",
+      "category": "Formal",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 11 November (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Chic Autumn Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 11 November (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

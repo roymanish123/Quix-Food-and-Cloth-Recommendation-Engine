@@ -1,0 +1,164 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "gender": "Male",
+    "month": "05 May",
+    "month_number": 5,
+    "season": "Summer",
+    "time_of_day": "Morning",
+    "avg_temperature_celsius": 27,
+    "weather_note": "Hot humid Miami summer, very light clothing, beach-ready outfits"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Summer Morning Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Summer Morning Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Summer Morning Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Summer Morning Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_009.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_010.jpg",
+      "item_name": "Summer Morning Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_011.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_012.jpg",
+      "item_name": "Summer Morning Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_013.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_014.jpg",
+      "item_name": "Summer Morning Swimwear",
+      "category": "Swimwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_015.jpg",
+      "item_name": "Summer Beach Shorts",
+      "category": "Casual/Beach",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Miami in 05 May (summer) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    }
+  ]
+}

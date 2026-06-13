@@ -1,0 +1,35 @@
+{
+  "folder_context": {
+    "location": "Dubai",
+    "meal_preference": "egg",
+    "month": "10 October",
+    "month_number": 10,
+    "season": "Warm",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 35
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Egg Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Egg Warm Snack — suitable for snack in Dubai during warm (10 October)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Egg Warm Snack",
+      "food_category": "Snack",
+      "meal_preference": "egg",
+      "time_of_day": "snack",
+      "description": "Egg Warm Snack — suitable for snack in Dubai during warm (10 October)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    }
+  ]
+}

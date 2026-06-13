@@ -1,0 +1,156 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "meal_preference": "non_veg",
+    "month": "01 January",
+    "month_number": 1,
+    "season": "Winter",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 20
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_009.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_010.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_011.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_012.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_013.jpg",
+      "dish_name": "Miami Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Miami Meat Snack — Miami winter snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "meal_preference": "egg",
+    "month": "06 June",
+    "month_number": 6,
+    "season": "Summer",
+    "time_of_day": "Breakfast",
+    "avg_temperature_celsius": 21
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_009.jpg",
+      "dish_name": "Summer Egg Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Summer Egg Breakfast — Paris summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    }
+  ]
+}

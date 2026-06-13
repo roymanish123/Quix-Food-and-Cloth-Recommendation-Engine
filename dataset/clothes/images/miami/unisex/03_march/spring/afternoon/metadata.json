@@ -1,0 +1,54 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "gender": "Unisex",
+    "month": "03 March",
+    "month_number": 3,
+    "season": "Spring",
+    "time_of_day": "Afternoon",
+    "avg_temperature_celsius": 23,
+    "weather_note": "Warm Miami spring, breathable fabrics ideal, increasing humidity"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Gender Neutral Beach Accessories",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 03 March (spring) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Unisex Beach Accessories",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 03 March (spring) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Unisex Spring Beach Afternoon",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 03 March (spring) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Unisex Beach Accessories",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Beach",
+      "description": "Outfit for Miami in 03 March (spring) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    }
+  ]
+}

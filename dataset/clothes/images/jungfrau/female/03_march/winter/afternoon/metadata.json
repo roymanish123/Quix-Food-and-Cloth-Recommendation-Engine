@@ -1,0 +1,64 @@
+{
+  "folder_context": {
+    "location": "Jungfrau",
+    "gender": "Female",
+    "month": "03 March",
+    "month_number": 3,
+    "season": "Winter",
+    "time_of_day": "Afternoon",
+    "avg_temperature_celsius": -6,
+    "weather_note": "Extreme Jungfrau cold, heavy ski/thermal wear mandatory, snowfall likely"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Women Ski Suit",
+      "category": "Snow Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Snow/Ski",
+      "description": "Outfit for Jungfrau in 03 March (winter) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Mountain Snow Outfit",
+      "category": "Snow Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Outdoor",
+      "description": "Outfit for Jungfrau in 03 March (winter) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Women Ski Suit",
+      "category": "Snow Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Snow/Ski",
+      "description": "Outfit for Jungfrau in 03 March (winter) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Women Ski Suit",
+      "category": "Snow Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Snow/Ski",
+      "description": "Outfit for Jungfrau in 03 March (winter) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Women Ski Suit",
+      "category": "Snow Wear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Snow/Ski",
+      "description": "Outfit for Jungfrau in 03 March (winter) during afternoon",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    }
+  ]
+}

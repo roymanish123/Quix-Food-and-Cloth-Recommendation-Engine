@@ -1,0 +1,24 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Female",
+    "month": "12 December",
+    "month_number": 12,
+    "season": "Winter",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 6,
+    "weather_note": "Cold Paris winter, heavy coat and layers required, possible rain or frost"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Formal Winter Night",
+      "category": "Formal",
+      "color": "placeholder - needs manual review",
+      "occasion": "Formal/Night",
+      "description": "Outfit for Paris in 12 December (winter) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

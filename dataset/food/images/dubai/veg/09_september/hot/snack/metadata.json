@@ -1,0 +1,24 @@
+{
+  "folder_context": {
+    "location": "Dubai",
+    "meal_preference": "veg",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Hot",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 40
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Summer Fruit Snack",
+      "food_category": "Snack",
+      "meal_preference": "veg",
+      "time_of_day": "snack",
+      "description": "Summer Fruit Snack — suitable for snack in Dubai during hot (09 September)",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for veg preference"
+    }
+  ]
+}

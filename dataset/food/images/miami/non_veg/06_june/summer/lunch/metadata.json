@@ -1,0 +1,101 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "meal_preference": "non_veg",
+    "month": "06 June",
+    "month_number": 6,
+    "season": "Summer",
+    "time_of_day": "Lunch",
+    "avg_temperature_celsius": 29
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Beach Seafood Lunch",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Beach Seafood Lunch — Miami summer lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    }
+  ]
+}

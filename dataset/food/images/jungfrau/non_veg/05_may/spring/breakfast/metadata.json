@@ -1,0 +1,68 @@
+{
+  "folder_context": {
+    "location": "Jungfrau",
+    "meal_preference": "non_veg",
+    "month": "05 May",
+    "month_number": 5,
+    "season": "Spring",
+    "time_of_day": "Breakfast",
+    "avg_temperature_celsius": 3
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Jungfrau non_veg breakfast dish",
+      "food_category": "non_veg",
+      "meal_preference": "non_veg",
+      "time_of_day": "breakfast",
+      "description": "Top-up food image for jungfrau/non_veg/spring/breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Jungfrau non_veg breakfast dish",
+      "food_category": "non_veg",
+      "meal_preference": "non_veg",
+      "time_of_day": "breakfast",
+      "description": "Top-up food image for jungfrau/non_veg/spring/breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Jungfrau non_veg breakfast dish",
+      "food_category": "non_veg",
+      "meal_preference": "non_veg",
+      "time_of_day": "breakfast",
+      "description": "Top-up food image for jungfrau/non_veg/spring/breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Jungfrau non_veg breakfast dish",
+      "food_category": "non_veg",
+      "meal_preference": "non_veg",
+      "time_of_day": "breakfast",
+      "description": "Top-up food image for jungfrau/non_veg/spring/breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Jungfrau non_veg breakfast dish",
+      "food_category": "non_veg",
+      "meal_preference": "non_veg",
+      "time_of_day": "breakfast",
+      "description": "Top-up food image for jungfrau/non_veg/spring/breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    }
+  ]
+}

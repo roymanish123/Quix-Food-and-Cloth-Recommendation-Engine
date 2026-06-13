@@ -1,0 +1,123 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "meal_preference": "egg",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Autumn",
+    "time_of_day": "Dinner",
+    "avg_temperature_celsius": 19
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_009.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_010.jpg",
+      "dish_name": "Autumn Egg Dinner",
+      "food_category": "Main Course",
+      "meal_preference": "egg",
+      "time_of_day": "dinner",
+      "description": "Autumn Egg Dinner — Paris autumn dinner",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    }
+  ]
+}

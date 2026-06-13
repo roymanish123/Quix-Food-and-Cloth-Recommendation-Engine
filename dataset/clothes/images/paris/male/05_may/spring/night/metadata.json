@@ -1,0 +1,54 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Male",
+    "month": "05 May",
+    "month_number": 5,
+    "season": "Spring",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 17,
+    "weather_note": "Mild Paris spring, light jacket recommended, occasional showers"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Casual Spring Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 05 May (spring) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Smart Spring Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 05 May (spring) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Casual Spring Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 05 May (spring) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Smart Spring Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 05 May (spring) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

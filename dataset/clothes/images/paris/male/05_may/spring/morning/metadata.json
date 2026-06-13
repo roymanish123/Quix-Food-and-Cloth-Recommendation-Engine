@@ -1,0 +1,134 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Male",
+    "month": "05 May",
+    "month_number": 5,
+    "season": "Spring",
+    "time_of_day": "Morning",
+    "avg_temperature_celsius": 17,
+    "weather_note": "Mild Paris spring, light jacket recommended, occasional showers"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Light Spring Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Spring Morning Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Light Spring Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Spring Morning Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Light Spring Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Spring Morning Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Light Spring Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Spring Morning Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_009.jpg",
+      "item_name": "Light Spring Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_010.jpg",
+      "item_name": "Spring Morning Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_011.jpg",
+      "item_name": "Light Spring Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_012.jpg",
+      "item_name": "Spring Morning Casual",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Paris in 05 May (spring) during morning",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

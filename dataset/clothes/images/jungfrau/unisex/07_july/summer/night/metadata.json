@@ -1,0 +1,94 @@
+{
+  "folder_context": {
+    "location": "Jungfrau",
+    "gender": "Unisex",
+    "month": "07 July",
+    "month_number": 7,
+    "season": "Summer",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 11,
+    "weather_note": "Mild alpine summer, light jacket for altitude, UV protection important"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Unisex Summer Lodge Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Gender Neutral Summer Night Accessories",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Unisex Summer Lodge Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Unisex Summer Lodge Night",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Unisex Summer Lodge Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Gender Neutral Summer Night Accessories",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Unisex Summer Lodge Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Gender Neutral Summer Night Accessories",
+      "category": "Accessories",
+      "color": "placeholder - needs manual review",
+      "occasion": "Casual",
+      "description": "Outfit for Jungfrau in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    }
+  ]
+}

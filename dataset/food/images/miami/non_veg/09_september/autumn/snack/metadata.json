@@ -1,0 +1,101 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "meal_preference": "non_veg",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Autumn",
+    "time_of_day": "Snack",
+    "avg_temperature_celsius": 29
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Autumn Meat Snack",
+      "food_category": "Snack",
+      "meal_preference": "non_veg",
+      "time_of_day": "snack",
+      "description": "Autumn Meat Snack — Miami autumn snack",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    }
+  ]
+}

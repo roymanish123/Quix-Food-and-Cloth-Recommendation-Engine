@@ -1,0 +1,90 @@
+{
+  "folder_context": {
+    "location": "Jungfrau",
+    "meal_preference": "non_veg",
+    "month": "12 December",
+    "month_number": 12,
+    "season": "Winter",
+    "time_of_day": "Lunch",
+    "avg_temperature_celsius": -7
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Dried Meat Platter",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Dried Meat Platter — Jungfrau winter lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Dried Meat Platter",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Dried Meat Platter — Jungfrau winter lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Dried Meat Platter",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Dried Meat Platter — Jungfrau winter lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Dried Meat Platter",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Dried Meat Platter — Jungfrau winter lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Dried Meat Platter",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Dried Meat Platter — Jungfrau winter lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Dried Meat Platter",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Dried Meat Platter — Jungfrau winter lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Dried Meat Platter",
+      "food_category": "Main Course",
+      "meal_preference": "non_veg",
+      "time_of_day": "lunch",
+      "description": "Dried Meat Platter — Jungfrau winter lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for non_veg preference"
+    }
+  ]
+}

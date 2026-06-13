@@ -1,0 +1,144 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Male",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Autumn",
+    "time_of_day": "Evening",
+    "avg_temperature_celsius": 19,
+    "weather_note": "Cool Paris autumn, layering recommended, frequent rain expected"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Autumn Evening Coat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Autumn Evening Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Autumn Evening Coat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Autumn Evening Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Autumn Evening Coat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Autumn Evening Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Autumn Evening Coat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Autumn Evening Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_009.jpg",
+      "item_name": "Autumn Evening Coat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_010.jpg",
+      "item_name": "Autumn Evening Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_011.jpg",
+      "item_name": "Autumn Evening Coat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_012.jpg",
+      "item_name": "Autumn Evening Jacket",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_013.jpg",
+      "item_name": "Autumn Evening Coat",
+      "category": "Outerwear",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Paris in 09 September (autumn) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "folder_context": {
+    "location": "Jungfrau",
+    "gender": "Male",
+    "month": "05 May",
+    "month_number": 5,
+    "season": "Spring",
+    "time_of_day": "Evening",
+    "avg_temperature_celsius": 3,
+    "weather_note": "Cool alpine spring, warm base layers needed, changeable mountain weather"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Alpine Spring Evening",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Jungfrau in 05 May (spring) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Lodge Spring Evening",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Jungfrau in 05 May (spring) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Alpine Spring Evening",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Jungfrau in 05 May (spring) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Lodge Spring Evening",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Jungfrau in 05 May (spring) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Alpine Spring Evening",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Jungfrau in 05 May (spring) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Lodge Spring Evening",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Evening Wear",
+      "description": "Outfit for Jungfrau in 05 May (spring) during evening",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Jungfrau"
+    }
+  ]
+}

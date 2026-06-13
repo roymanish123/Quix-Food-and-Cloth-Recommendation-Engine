@@ -1,0 +1,79 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "meal_preference": "vegan",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Autumn",
+    "time_of_day": "Lunch",
+    "avg_temperature_celsius": 19
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Paris vegan lunch dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Top-up food image for paris/vegan/autumn/lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Paris vegan lunch dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Top-up food image for paris/vegan/autumn/lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Paris vegan lunch dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Top-up food image for paris/vegan/autumn/lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Paris vegan lunch dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Top-up food image for paris/vegan/autumn/lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Paris vegan lunch dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Top-up food image for paris/vegan/autumn/lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Paris vegan lunch dish",
+      "food_category": "vegan",
+      "meal_preference": "vegan",
+      "time_of_day": "lunch",
+      "description": "Top-up food image for paris/vegan/autumn/lunch",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    }
+  ]
+}

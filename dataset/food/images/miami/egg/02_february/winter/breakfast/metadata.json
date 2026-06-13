@@ -1,0 +1,145 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "meal_preference": "egg",
+    "month": "02 February",
+    "month_number": 2,
+    "season": "Winter",
+    "time_of_day": "Breakfast",
+    "avg_temperature_celsius": 21
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_005.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_006.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_007.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_008.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_009.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_010.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_011.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    },
+    {
+      "filename": "img_012.jpg",
+      "dish_name": "Miami Brunch Eggs",
+      "food_category": "Breakfast",
+      "meal_preference": "egg",
+      "time_of_day": "breakfast",
+      "description": "Miami Brunch Eggs — Miami winter breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for egg preference"
+    }
+  ]
+}

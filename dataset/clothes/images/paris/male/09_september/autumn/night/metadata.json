@@ -1,0 +1,94 @@
+{
+  "folder_context": {
+    "location": "Paris",
+    "gender": "Male",
+    "month": "09 September",
+    "month_number": 9,
+    "season": "Autumn",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 19,
+    "weather_note": "Cool Paris autumn, layering recommended, frequent rain expected"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Autumn Smart Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Autumn Smart Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Warm Autumn Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Autumn Smart Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Autumn Smart Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_006.jpg",
+      "item_name": "Warm Autumn Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_007.jpg",
+      "item_name": "Warm Autumn Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    },
+    {
+      "filename": "img_008.jpg",
+      "item_name": "Warm Autumn Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Paris in 09 September (autumn) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Paris"
+    }
+  ]
+}

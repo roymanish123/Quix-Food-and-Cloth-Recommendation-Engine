@@ -1,0 +1,57 @@
+{
+  "folder_context": {
+    "location": "Jungfrau",
+    "meal_preference": "vegan",
+    "month": "08 August",
+    "month_number": 8,
+    "season": "Summer",
+    "time_of_day": "Breakfast",
+    "avg_temperature_celsius": 10
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "dish_name": "Vegan Summer Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "vegan",
+      "time_of_day": "breakfast",
+      "description": "Vegan Summer Breakfast — Jungfrau summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_002.jpg",
+      "dish_name": "Vegan Summer Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "vegan",
+      "time_of_day": "breakfast",
+      "description": "Vegan Summer Breakfast — Jungfrau summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_003.jpg",
+      "dish_name": "Vegan Summer Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "vegan",
+      "time_of_day": "breakfast",
+      "description": "Vegan Summer Breakfast — Jungfrau summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    },
+    {
+      "filename": "img_004.jpg",
+      "dish_name": "Vegan Summer Breakfast",
+      "food_category": "Breakfast",
+      "meal_preference": "vegan",
+      "time_of_day": "breakfast",
+      "description": "Vegan Summer Breakfast — Jungfrau summer breakfast",
+      "restaurant_name": "placeholder - needs manual review",
+      "price_range": "placeholder - needs manual review",
+      "dietary_note": "Suitable for vegan preference"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "folder_context": {
+    "location": "Miami",
+    "gender": "Male",
+    "month": "07 July",
+    "month_number": 7,
+    "season": "Summer",
+    "time_of_day": "Night",
+    "avg_temperature_celsius": 30,
+    "weather_note": "Hot humid Miami summer, very light clothing, beach-ready outfits"
+  },
+  "items": [
+    {
+      "filename": "img_001.jpg",
+      "item_name": "Casual Summer Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Miami in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_002.jpg",
+      "item_name": "Smart Summer Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Miami in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_003.jpg",
+      "item_name": "Casual Summer Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Miami in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_004.jpg",
+      "item_name": "Smart Summer Night",
+      "category": "Smart Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Miami in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    },
+    {
+      "filename": "img_005.jpg",
+      "item_name": "Casual Summer Night",
+      "category": "Casual",
+      "color": "placeholder - needs manual review",
+      "occasion": "Night Out",
+      "description": "Outfit for Miami in 07 July (summer) during night",
+      "price_range": "placeholder - needs manual review",
+      "cultural_note": "Appropriate for Miami"
+    }
+  ]
+}
